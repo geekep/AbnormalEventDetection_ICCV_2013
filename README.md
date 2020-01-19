@@ -11,4 +11,3 @@ The training and testing videos are downloaded from the paper author's page:
 , and from the following project website:
 [http://www.cse.yorku.ca/vision/research/anomalous-behaviour-data](http://www.cse.yorku.ca/vision/research/anomalous-behaviour-data)
 ***
-The updated version of the video data were filmed by courtesy of Zhu Feng, Chu Qi, Hou Boxue, Zhuang Bingbing and Huang Tengyu.
