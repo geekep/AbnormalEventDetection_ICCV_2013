@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.hg
+data/**
+data
+*.mat
+*.pdf
+*.swp
+*.p
