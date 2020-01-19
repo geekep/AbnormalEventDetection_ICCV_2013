@@ -1,7 +1,6 @@
 .DS_Store
-Thumbs.db
 .hg
-data/**
+Thumbs.db
 data
 *.mat
 *.pdf
